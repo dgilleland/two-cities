@@ -1,0 +1,891 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/dgilleland/Documents/GitHub/two-cities",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "_book-meta/images/0403m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book-meta/images/0403m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book-meta/images/0404m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book-meta/images/0404m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book-meta/postface.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book-meta/postface.html",
+          "hash": "FbSLtBRCm2zocJe5wPp4zQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book-meta/preface.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book-meta/preface.html",
+          "hash": "SG6xm+p6obGGfFBO4K0+7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "_book-meta/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book-meta/toc.html",
+          "hash": "JbBiUGxcJD7YrHt9FGvrAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book1/ch1-01.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book1/ch1-01.html",
+          "hash": "wEfiP4qHlWtfU/CIfdKXMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book1/ch1-02.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book1/ch1-02.html",
+          "hash": "Bph5iy0EwYP/cDNIYn7Jeg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book1/ch1-03.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book1/ch1-03.html",
+          "hash": "GNnNTxoJIcKTMINWV4Y7Cw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book1/ch1-04.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book1/ch1-04.html",
+          "hash": "RgSwyO8VPyIIQw3dPb3y9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book1/ch1-05.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book1/ch1-05.html",
+          "hash": "f6YLfWLh0RX42WvQ6Fiwzg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book1/ch1-06.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book1/ch1-06.html",
+          "hash": "UE2C5ziZ1D3hHMS2SzI1EQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book1/images/0403m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book1/images/0403m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book1/images/0404m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book1/images/0404m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book1/images/0414m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book1/images/0414m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book1/images/0442m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book1/images/0442m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "_book1/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book1/toc.html",
+          "hash": "OJf8I04MDHNVFMxe+WLMlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-01.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-01.html",
+          "hash": "vWO075gtWQUFNh7daBtQxQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-02.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-02.html",
+          "hash": "WuQy2I1iQpGgIFiHUMKKjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-03.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-03.html",
+          "hash": "x6dLXRnKosqyLsL9xtV9NA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-04.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-04.html",
+          "hash": "5f+hUJ9vO+IZ1fXKauYZEA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-05.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-05.html",
+          "hash": "TFqADxynmmqrsuowY+JcRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-06.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-06.html",
+          "hash": "eTUCmGxOqgimo8qJ0fHdbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-07.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-07.html",
+          "hash": "pXLqPSlRaaW5hBqvOYp9mA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-08.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-08.html",
+          "hash": "iRK0N3zjfGivYstC0VfmTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-09.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-09.html",
+          "hash": "PEDSelOWAT4Ma6V33Gfw4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-10.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-10.html",
+          "hash": "zSIVUy90QpVFP+ebKOcK7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-11.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-11.html",
+          "hash": "B+1QZhZDeE7DBlB80cF1oA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-12.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-12.html",
+          "hash": "5g043MRGSmRcx86lHSyfUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-13.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-13.html",
+          "hash": "5qZgnZrWCK59J/YUwT7Hww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-14.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-14.html",
+          "hash": "g8oKWDScUwWfIU5oJqGyuw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-15.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-15.html",
+          "hash": "1+iQUqIFL5OnvyqMKLzqfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-16.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-16.html",
+          "hash": "xnL130j36RF3kdnS0qdWNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-17.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-17.html",
+          "hash": "dbf8Dodj1eMRe/63tpGcBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-18.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-18.html",
+          "hash": "bfmGOD4UNSYsV8MRPNXiBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-19.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-19.html",
+          "hash": "1wOeuqE01z3ULDVhb/Mugw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-20.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-20.html",
+          "hash": "TiVHmoygPQVLkxeQjAB36Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-21.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-21.html",
+          "hash": "3uiFBdHk7En601lXxphx6Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-22.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-22.html",
+          "hash": "uzep0JSen+6jAPCVZioChw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-23.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-23.html",
+          "hash": "0g39wG9vHM50bqRinod12g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book2/ch2-24.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/ch2-24.html",
+          "hash": "XvIohrMQaf7nbcPBP1u4Fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0465m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0465m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0471m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0471m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0496m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0496m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0524m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0524m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0535m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0535m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0544m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0544m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0576m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0576m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book2/images/0592m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book2/images/0592m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "_book2/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book2/toc.html",
+          "hash": "NuzCywu8lVc8GbRtRDrRxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-01.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-01.html",
+          "hash": "x7xeKmHAZpV93eO4tHCSxQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-02.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-02.html",
+          "hash": "SqSb9VbgYGgdRzhgFfCB1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-03.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-03.html",
+          "hash": "dR2IrC9k/8KTQ5xQmoZaYw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-04.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-04.html",
+          "hash": "ErWd2678JNekNJoOWa/LSg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-05.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-05.html",
+          "hash": "fiAvlP2smyiPRk7Lo2nHSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-06.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-06.html",
+          "hash": "YyIYBEWuxvOchGexXfw2/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-07.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-07.html",
+          "hash": "MXXvyRI5TmuhFqotcYTo7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-08.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-08.html",
+          "hash": "cVhtQPzoCVI7Y2mF4GyVig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-09.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-09.html",
+          "hash": "wW0y+NXId5GuwyuA90hh/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-10.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-10.html",
+          "hash": "wlODoGayUdZaOow7DXiO/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-11.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-11.html",
+          "hash": "RPFpwQeixvnDsZi3sQAjWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-12.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-12.html",
+          "hash": "0rc80EvnnDut8cPn+pfM+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-13.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-13.html",
+          "hash": "vRq7TJtxm8ky1QeB6C0V+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-14.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-14.html",
+          "hash": "BNVfX74FwugZOTqNwLtNsg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "_book3/ch3-15.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/ch3-15.html",
+          "hash": "8U/1D2XfDXJktxkk0fMt5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book3/images/0616m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book3/images/0616m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book3/images/0649m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book3/images/0649m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book3/images/0653m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book3/images/0653m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_book3/images/0686m.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "_book3/images/0686m.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "_book3/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "_book3/toc.html",
+          "hash": "d8pPKyrj1esy38sbLtq3dA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "3FioXhd8Lc9/EEO24TOqxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license.md",
+      "output": {
+        ".html": {
+          "relative_path": "license.html",
+          "hash": "JYW8IHwvgEzrcRtULLvovQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "vOmbuE1gmRqI/HdozUeNrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

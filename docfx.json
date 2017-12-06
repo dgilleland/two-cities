@@ -1,0 +1,18 @@
+{
+    "build": {
+      "content":
+        [
+          {
+            "files": ["**/*.md"]
+          }
+        ],
+      "resource": [
+          {
+            "files": ["_book*/images/**"]
+          }
+      ],
+      "dest": "_site",
+      "template": "default"
+    }
+  }
+  

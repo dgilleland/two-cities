@@ -34,10 +34,6 @@ Produced by Judith Boss, and David Widger
 <div class="fig" style="width:60%;">![0403m ](images/0403m.jpg)  
 </div>
 
-##### [_Original_](images/0403.jpg)
-
 <div class="fig" style="width:60%;">![0404m ](images/0404m.jpg)  
 </div>
-
-##### [_Original_](images/0404.jpg)
 
